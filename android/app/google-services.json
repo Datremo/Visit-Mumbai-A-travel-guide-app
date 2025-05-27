@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "685822495313",
+    "project_id": "visitmumbai-b2b7a",
+    "storage_bucket": "visitmumbai-b2b7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685822495313:android:e77683caa610e2e84b8670",
+        "android_client_info": {
+          "package_name": "com.example.visit_mumbai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASLkv8HQkXaKecjNCvhXTXcG11IFGJUUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
